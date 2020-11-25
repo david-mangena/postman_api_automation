@@ -8,7 +8,15 @@ https://home.openweathermap.org/api_keys API key To use our API, you must have a
 Usage
 The collection is arranged in folders according to the API endpoints.
 
-Almost all requests require a valid SparkPost API key. The collection requests have a placeholder variable called API_KEY for this. This should be set in your Postman environment i.e. outside the collection itself. This should help avoid accidental commits of API keys to repos.
+Almost all requests require a valid Openweathermap API key. 
+
+The collection requests have a placeholder variable called API_KEY for this. This should be set in your Postman environment i.e. outside the collection itself. This should help avoid accidental commits of API keys to repos.
 
 A collection-scope variable BASE_URL points to the usual host https://openweathermap.org/api.
 
+# Getting Starting
+##Download the files frome given repo
+
+##Import the files to Postman respectively
+
+##Executes the tests by clicking Send 
