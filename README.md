@@ -15,8 +15,8 @@ The collection requests have a placeholder variable called API_KEY for this. Thi
 A collection-scope variable BASE_URL points to the usual host https://openweathermap.org/api.
 
 # Getting Starting
-##Download the files frome given repo
+Download the files from given repo
 
-##Import the files to Postman respectively
+Import the files to Postman respectively
 
-##Executes the tests by clicking Send 
+Executes the tests by clicking Send 
